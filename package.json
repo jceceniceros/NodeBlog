@@ -1,0 +1,13 @@
+{
+    "name": "demo-website-node",
+    "version": "0.1.0",
+    "description": "Website using node.js for building a container image",
+    "author": "Juan Carlos Ceniceros <jc.espinosa.ceniceros@hotmail.com>",
+    "license": "MIT",
+    "main": "app.js",
+    "keywords": [
+        "nodejs",
+        "express",
+        "bootstrap"
+    ]
+}
